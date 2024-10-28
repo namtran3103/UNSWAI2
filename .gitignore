@@ -13,3 +13,6 @@ images/obstacle.png
 images/petrol-pump.png
 images/robot.png
 images/taxi.png
+.DS_Store
+__pycache__/env.cpython-311.pyc
+__pycache__/env.cpython-312.pyc
