@@ -1,6 +1,7 @@
 import random
 import numpy as np
 from env import StaticGridEnv
+import matplotlib.pyplot as plt
 
 # Initialize the environment
 env = StaticGridEnv(42)
