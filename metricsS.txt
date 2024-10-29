@@ -1,0 +1,3 @@
+Success Rate: 99.85000000000001%
+Average Reward per Episode: 8.6298
+Average Learning Speed: 0.08176414315266184
