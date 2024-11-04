@@ -1,5 +1,5 @@
 {
-    "Success Rate": 95.33333333333334,
-    "Average Reward per Episode": -1.81,
-    "Average Learning Speed": 0.04822375823822536
+    "Success Rate": 98.6,
+    "Average Reward per Episode": 5.77,
+    "Average Learning Speed": 0.0681198910081744
 }
